@@ -72,7 +72,7 @@ export default function Footer() {
 					<FooterLink title="Home" link="/" />
 					<FooterLink title="About The Project" link="/about" />
 					<FooterLink title="View Collections" link="/datasets" />
-					<FooterLink title="Policy" link="/policy" />
+					<FooterLink title="Policy" link="https://ashesi.edu.gh/university-policies/" />
 				</div>
 			</div>
 			<div className="bg-ashesi-gray flex justify-center items-center py-6">
